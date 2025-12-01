@@ -172,3 +172,11 @@ By mastering **Sequences, List Comprehensions, Generator Expressions, Dictionari
 - Improve **scalability using structured data management techniques**.
 
 This lab ensures real-world applicability of Python **data structures** in managing dynamic, scalable, and efficient datasets.
+
+
+## How To Use
+
+1. Clone repository to your local machine.
+2. Run 'pipenv install' to install all dependencies.
+3. Change student data in the student_data.py file.  
+4. Run test using 'pytest -x'
